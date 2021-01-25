@@ -49,4 +49,4 @@ This repository contains two files, PongInitial.py and PongOOP.py, both of which
 Memory is a card game in which a player deals out a set of cards face down. In Memory, a turn (or a move) consists of the player flipping over two cards. If they match, the player leaves them face up. If they don't match, the player flips the cards back face down. The goal of Memory is to end up with all of the cards flipped face up in the minimum number of turns. For this project, I used numbers, but it is also possible to use images or letters in this game. A Memory deck consists of eight pairs of matching cards.
 
 ## Word Wrangler
-This game takes an input word and then generates all valid words that can be created using the letters in the input word. Possible valid words a taken from this [dictionary] (http://codeskulptor-assets.commondatastorage.googleapis.com/assets_scrabble_words3.txt).
+This game takes an input word and then generates all valid words that can be created using the letters in the input word. Possible valid words a taken from this [dictionary](http://codeskulptor-assets.commondatastorage.googleapis.com/assets_scrabble_words3.txt).
