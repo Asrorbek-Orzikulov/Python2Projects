@@ -40,7 +40,7 @@ After running the project, you can add obstacles (black squares), zombies (red s
 
 The "Zombies stalk" button moves zombies towards humans, while the "Humans flee" button moves humans away from zombies. Under the hood, both these buttons use bread-first-search (BFS).
 
-## Mini-project description - Pong
+## Pong
 Pong is one of the first arcade video games (1972). While Pong is not particularly exciting compared to today's video games, Pong is relatively simple to build and provides a nice opportunity for beginners to work on their programming skills.
 
 This repository contains two files, PongInitial.py and PongOOP.py, both of which are an implementation of Pong. The first file is my initial version of Pong, and the second one is the same project re-written fully using object-oriented programming.
